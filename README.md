@@ -1,205 +1,398 @@
+<!-- ========================================================= -->
 
+<!--                    UTKARSH SINGH                          -->
 
-# 👋 Hi, I'm Utkarsh Singh
+<!--             FULL STACK WEB & MOBILE                       -->
 
-### Full Stack Web Developer | React.js • Next.js • Node.js • Express.js
+<!-- ========================================================= -->
 
-I’m a **Full Stack Web Developer** focused on building modern, scalable, and production-ready web applications.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:0F172A,70:1D4ED8,100:38BDF8&text=UTKARSH%20SINGH&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20WEB%20%26%20MOBILE%20DEVELOPER&descAlignY=61&descSize=17&descColor=BFDBFE"
+    width="100%"
+    alt="Utkarsh Singh"
+  />
+</p>
 
-I work across frontend, backend, databases, APIs, authentication, SEO, and deployment, with a focus on building clean and maintainable applications.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1100&color=60A5FA&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Building+mobile+applications;React.js+%7C+Next.js+%7C+Node.js;React+Native+%7C+Expo;Frontend+%2B+Backend+%2B+Database;From+idea+to+production"
+    alt="Typing animation"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/utkarsh08122">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/utkarsh-singh-73a71a220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/uksingh08/">
+    <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="mailto:utkarshsingh6306339464@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=utkarsh08122&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-* 💻 Full Stack Web Developer
-* ⚛️ Building web applications with **React.js & Next.js**
-* 🚀 Developing backend services and REST APIs with **Node.js & Express.js**
-* 🗄️ Working with **MySQL & MongoDB**
-* 🔧 Using **Sequelize ORM** and **Mongoose ODM**
-* 📱 Currently learning **React Native CLI & Expo**
-* 🏗️ Currently completing **Hirelom — a full-stack job portal**
-* 🧠 Practicing **Data Structures & Algorithms** on LeetCode
-* 🔍 Interested in backend architecture, performance, SEO, and production applications
+I'm **Utkarsh Singh**, a Full Stack Web Developer focused on building **modern web and mobile applications**.
+
+I work across the complete application stack — from frontend interfaces and backend APIs to databases, authentication, SEO and deployment.
+
+Currently working as a **Full Stack Web Developer at Infoace Experts Private Limited**.
+
+I'm also expanding my development experience into **React Native CLI and Expo**, with the goal of building complete products across both web and mobile platforms.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### WEB
+
+**React.js · Next.js**
+
+Responsive interfaces, dashboards, authentication, SEO, APIs and complete business workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### MOBILE
+
+**React Native · Expo**
+
+Cross-platform applications, reusable components, API integration and mobile architecture.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### BACKEND
+
+**Node.js · Express.js**
+
+REST APIs, authentication, business logic, integrations and server-side workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### DATA
+
+**MySQL · MongoDB**
+
+Relational and document-based data systems using Sequelize, Prisma and Mongoose.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript TypeScript" />
+</p>
 
 ### Frontend
 
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React Next Tailwind HTML CSS" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express" />
+</p>
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL MongoDB" />
+</p>
 
 ### ORM / ODM
 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0DE?style=for-the-badge\&logo=sequelize\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Sequelize-0F172A?style=for-the-badge&logo=sequelize&logoColor=52B0DE" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/Mongoose-0F172A?style=for-the-badge&logo=mongoose&logoColor=880000" alt="Mongoose" />
+</p>
 
 ### Mobile
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo" alt="React Native Expo" />
+</p>
 
-### Tools & Platforms
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💼 Hirelom — Job Portal
-
-Currently completing a full-stack **job portal platform** designed for job seekers, recruiters, and administrators.
-
-The platform focuses on job discovery, recruitment workflows, user profiles, recruiter functionality, and dashboard-based management.
-
-**Status:** 🚧 In Development
-
-**Tech:** React.js · Next.js · Node.js · Express.js · MySQL · Sequelize
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git GitHub Vercel" />
+</p>
 
 ---
 
-### 🤖 AI Interview Pro
+## Currently Building
 
-An AI-powered mock interview platform that enables users to generate role-specific interview sessions with real-time AI interaction.
+### Hirelom — Full-Stack Job Portal
 
-* 🤖 AI-powered interview generation
-* 🎙️ Voice-based interview interaction
-* 🔐 JWT authentication
-* 📧 Automated email workflows
-* ☁️ Cloud deployment
+> `IN DEVELOPMENT`
 
-**Tech:** Next.js · MongoDB · Mongoose · Node.js · Google GenAI · Vapi.ai · JWT · Tailwind CSS · Nodemailer
+A full-stack job portal designed around the interaction between **job seekers, recruiters and administrators**.
 
-🔗 [View Repository](https://github.com/utkarsh08122/AI-Interview-Pro)
+The platform focuses on job discovery, recruitment workflows, profiles, dashboards and management systems.
 
----
+**Stack**
 
-### 📱 SnapBook
-
-A social media web application featuring authentication, media uploads, user interactions, and responsive UI.
-
-* 🔐 JWT authentication
-* 📸 Media upload functionality
-* ☁️ Cloudinary media storage
-* 🔒 Secure password hashing
-* 📱 Responsive interface
-
-**Tech:** Next.js · MongoDB · Mongoose · Node.js · JWT · Cloudinary · Tailwind CSS · Multer
-
-🔗 [View Repository](https://github.com/utkarsh08122/SnapBook)
+`React.js` · `Next.js` · `Node.js` · `Express.js` · `MySQL` · `Sequelize`
 
 ---
 
-### 🛒 Zelvix
+## Selected Projects
 
-A full-stack e-commerce platform focused on product management, business workflows, database operations, and production-ready web development.
+### AI Interview Pro
 
-**Tech:** React.js · Node.js · MySQL · Sequelize · REST APIs
+**AI-Powered Interview Platform**
+
+An AI-powered mock interview application designed to generate role-specific interview sessions with real-time voice interaction.
+
+**Core functionality**
+
+* AI interview generation
+* Voice-based interview interaction
+* JWT authentication
+* Automated email workflows
+* Responsive application UI
+* Production deployment
+
+**Stack**
+
+`Next.js` · `Node.js` · `MongoDB` · `Mongoose` · `Google GenAI` · `Vapi.ai` · `JWT` · `Tailwind CSS` · `Nodemailer`
+
+<p>
+  <a href="https://github.com/utkarsh08122/AI-Interview-Pro">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="AI Interview Pro Repository" />
+  </a>
+</p>
 
 ---
 
-### 📊 Ion Monitor
+### SnapBook
 
-A production web platform focused on monitoring-related functionality, SEO, responsive UI, database operations, and backend workflows.
+**Social Media Web Application**
 
-**Tech:** Next.js · React · MySQL · Prisma · REST APIs · SSR
+A social media application focused on authentication, media uploads, user interaction and responsive application design.
+
+**Core functionality**
+
+* JWT authentication
+* Secure password handling
+* Media uploads
+* Cloudinary integration
+* Multer file processing
+* Responsive UI
+
+**Stack**
+
+`Next.js` · `Node.js` · `MongoDB` · `Mongoose` · `JWT` · `Cloudinary` · `Multer` · `Tailwind CSS`
+
+<p>
+  <a href="https://github.com/utkarsh08122/SnapBook">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="SnapBook Repository" />
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+### Zelvix
+
+**Full-Stack E-Commerce Platform**
+
+A production-oriented e-commerce application focused on product management, business workflows, database operations and backend integrations.
+
+**Stack**
+
+`React.js` · `Node.js` · `MySQL` · `Sequelize` · `REST APIs`
+
+---
+
+### Ion Monitor
+
+**Server-Rendered Web Platform**
+
+A production platform focused on monitoring functionality, SEO, responsive interfaces and structured database operations.
+
+**Stack**
+
+`Next.js` · `React` · `MySQL` · `Prisma` · `REST APIs` · `SSR`
+
+---
+
+## Professional Experience
+
+### Full Stack Web Developer
+
+**Infoace Experts Private Limited**
+
+Working across frontend, backend, databases, APIs, SEO and deployment for production applications.
+
+**Engineering**
+
+`React.js` · `Next.js` · `Node.js` · `Express.js`
+
+`MySQL` · `MongoDB` · `Sequelize` · `Prisma`
+
+`REST APIs` · `Responsive UI` · `SEO` · `Deployment`
+
+---
+
+## Web → Mobile
 
 ### React Native
 
-Currently expanding my development skills from web to mobile application development.
+I'm currently expanding my development experience from **web applications into mobile applications**.
 
-* React Native CLI
-* React Native Expo
-* Navigation
-* Native UI components
-* Mobile application architecture
-* API integration
+```text
+React Native CLI
+        ↓
+Expo
+        ↓
+Navigation
+        ↓
+API Integration
+        ↓
+Reusable Components
+        ↓
+Mobile Architecture
+```
 
----
-
-## 🧠 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** and work on improving my problem-solving skills.
-
-### LeetCode
-
-🔗 [View My LeetCode Profile](https://leetcode.com/u/uksingh08/)
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Web Developer — Infoace Experts Private Limited
-
-Working on production applications involving:
-
-* React.js
-* Next.js
-* Node.js
-* Express.js
-* REST APIs
-* MySQL
-* MongoDB
-* Sequelize
-* Prisma
-* Responsive UI
-* SEO
-* Deployment
+My goal is to build complete products across **web + mobile**, backed by the same API and database ecosystem.
 
 ---
 
-## 📫 Connect With Me
+## Problem Solving
 
-💼 **LinkedIn:** [linkedin.com/in/utkarsh-singh-73a71a220](https://www.linkedin.com/in/utkarsh-singh-73a71a220/)
+I regularly practice **Data Structures & Algorithms** using LeetCode to improve problem-solving and interview readiness.
 
-💻 **GitHub:** [github.com/utkarsh08122](https://github.com/utkarsh08122)
-
-🧩 **LeetCode:** [leetcode.com/u/uksingh08](https://leetcode.com/u/uksingh08/)
-
----
-
-## 📊 GitHub Stats
-
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh08122\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh08122\&layout=compact\&hide_border=true)
+<p align="center">
+  <a href="https://leetcode.com/u/uksingh08/">
+    <img
+      src="https://leetcard.jacoblin.cool/uksingh08?theme=dark&font=baloo&ext=heatmap"
+      width="520"
+      alt="LeetCode Statistics"
+    />
+  </a>
+</p>
 
 ---
 
-## 💡 My Approach
+## GitHub Activity
 
-> **Build. Learn. Solve. Improve. Repeat.**
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=utkarsh08122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=020617&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"
+    height="175"
+    alt="GitHub Statistics"
+  />
 
-I believe in continuously improving my skills by building real-world applications, solving problems, and learning new technologies.
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh08122&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1"
+ height="175"
+ alt="Top Languages"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=utkarsh08122&theme=tokyonight&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"
+    height="175"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
-⭐️ **Thanks for visiting my profile!**
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/utkarsh08122/utkarsh08122/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/utkarsh08122/utkarsh08122/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/utkarsh08122/utkarsh08122/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/utkarsh-singh-73a71a220/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/utkarsh08122">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://leetcode.com/u/uksingh08/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="mailto:utkarshsingh6306339464@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Ship+%E2%80%A2+Learn;Web+%E2%86%92+Mobile;Always+Building"
+    alt="Footer animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:2563EB,75:0F172A,100:020617&height=130&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
