@@ -1,14 +1,19 @@
 <!-- ========================================================= -->
+
 <!--                    UTKARSH SINGH                          -->
+
 <!--             FULL STACK WEB & MOBILE                       -->
+
 <!-- ========================================================= -->
 
+<!-- ======================== HERO ========================== -->
+
+
+
+<h1 align="center">Utkarsh Singh</h1>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,40:0F172A,70:1D4ED8,100:38BDF8&amp;text=UTKARSH%20SINGH&amp;fontSize=54&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=FULL%20STACK%20WEB%20%26%20MOBILE%20DEVELOPER&amp;descAlignY=61&amp;descSize=17&amp;descColor=BFDBFE"
-    width="100%"
-    alt="Utkarsh Singh - Full Stack Web and Mobile Developer"
-  />
+  <strong>Full Stack Web &amp; Mobile Developer</strong>
 </p>
 
 <p align="center">
@@ -21,7 +26,7 @@
 <p align="center">
   <a href="https://github.com/utkarsh08122">
     <img
-      src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF"
+      src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white"
       alt="GitHub"
     />
   </a>
@@ -59,19 +64,19 @@
 
 # 👋 About Me
 
-I'm **Utkarsh Singh**, a **Full Stack Web Developer** focused on building modern and production-oriented **web and mobile applications**.
+I'm **Utkarsh Singh**, a **Full Stack Web & Mobile Developer** focused on building modern, scalable, and production-oriented applications.
 
-I work across the complete application stack — from frontend interfaces and backend APIs to databases, authentication, SEO and deployment.
+I work across the complete application stack — from frontend interfaces and backend APIs to databases, authentication, SEO, integrations, and deployment.
 
 Currently working as a **Full Stack Web Developer at Infoace Experts Private Limited**.
 
-I'm also expanding my development experience into **React Native CLI and Expo**, with the goal of building complete products across both web and mobile platforms.
+I'm also expanding my development experience into **React Native CLI and Expo**, with a focus on building applications across both **web and mobile platforms**.
 
 <p align="center">
   <img
-    src="./assets/developer-workspace.gif"
-    width="600"
-    alt="Developer working on a web application"
+    src="./assets/developer.gif"
+    width="420"
+    alt="Developer animation"
   />
 </p>
 
@@ -83,25 +88,25 @@ I'm also expanding my development experience into **React Native CLI and Expo**,
 <tr>
 <td width="50%" valign="top">
 
-## 🌐 Web Applications
+### 🌐 Web Applications
 
 Building modern web applications using:
 
 **React.js · Next.js**
 
-Responsive interfaces, dashboards, authentication, APIs, SEO and complete business workflows.
+Responsive interfaces, dashboards, authentication, APIs, SEO, integrations, and complete business workflows.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📱 Mobile Applications
+### 📱 Mobile Applications
 
-Expanding into mobile development with:
+Expanding into mobile development using:
 
 **React Native · Expo**
 
-Cross-platform applications, reusable components, API integration and mobile architecture.
+Cross-platform applications, reusable components, API integration, navigation, and mobile architecture.
 
 </td>
 </tr>
@@ -109,25 +114,25 @@ Cross-platform applications, reusable components, API integration and mobile arc
 <tr>
 <td width="50%" valign="top">
 
-## ⚙️ Backend Systems
+### ⚙️ Backend Systems
 
-Building backend services with:
+Building backend services using:
 
 **Node.js · Express.js**
 
-REST APIs, authentication, business logic, integrations and server-side workflows.
+REST APIs, authentication, business logic, integrations, and server-side workflows.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🗄️ Data Layer
+### 🗄️ Data Layer
 
 Working with:
 
 **MySQL · MongoDB**
 
-Using Sequelize, Prisma and Mongoose for application data management.
+Using Sequelize, Prisma, and Mongoose for database operations and application data management.
 
 </td>
 </tr>
@@ -137,13 +142,16 @@ Using Sequelize, Prisma and Mongoose for application data management.
 
 # 🛠️ Technology Stack
 
-## Languages
+## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript and TypeScript" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts"
+    alt="JavaScript TypeScript"
+  />
 </p>
 
-## Frontend
+## 🎨 Frontend
 
 <p>
   <img
@@ -152,25 +160,25 @@ Using Sequelize, Prisma and Mongoose for application data management.
   />
 </p>
 
-## Backend
+## ⚙️ Backend
 
 <p>
   <img
     src="https://skillicons.dev/icons?i=nodejs,express"
-    alt="Node.js and Express.js"
+    alt="Node.js Express.js"
   />
 </p>
 
-## Databases
+## 🗄️ Databases
 
 <p>
   <img
     src="https://skillicons.dev/icons?i=mysql,mongodb"
-    alt="MySQL and MongoDB"
+    alt="MySQL MongoDB"
   />
 </p>
 
-## ORM / ODM
+## 🔧 ORM / ODM
 
 <p>
   <img
@@ -178,27 +186,28 @@ Using Sequelize, Prisma and Mongoose for application data management.
     alt="Prisma"
   />
 
-  <img
-    src="https://img.shields.io/badge/Sequelize-0F172A?style=for-the-badge&amp;logo=sequelize&amp;logoColor=52B0DE"
-    alt="Sequelize"
-  />
+<img
+ src="https://img.shields.io/badge/Sequelize-0F172A?style=for-the-badge&amp;logo=sequelize&amp;logoColor=52B0DE"
+ alt="Sequelize"
+/>
 
-  <img
-    src="https://img.shields.io/badge/Mongoose-0F172A?style=for-the-badge&amp;logo=mongoose&amp;logoColor=880000"
-    alt="Mongoose"
-  />
+<img
+ src="https://img.shields.io/badge/Mongoose-0F172A?style=for-the-badge&amp;logo=mongoose&amp;logoColor=880000"
+ alt="Mongoose"
+/>
+
 </p>
 
-## Mobile
+## 📱 Mobile
 
 <p>
   <img
     src="https://skillicons.dev/icons?i=react,expo"
-    alt="React Native and Expo"
+    alt="React Native Expo"
   />
 </p>
 
-## Tools
+## 🧰 Tools & Platforms
 
 <p>
   <img
@@ -211,18 +220,341 @@ Using Sequelize, Prisma and Mongoose for application data management.
 
 # 🔨 Currently Building
 
-## Hirelom — Full-Stack Job Portal
+## 💼 Hirelom — Full-Stack Job Portal
+
+
 
 **Status: `IN DEVELOPMENT`**
 
-Hirelom is a full-stack job portal designed around the interaction between **job seekers, recruiters and administrators**.
+Hirelom is a full-stack job portal designed for **job seekers, recruiters, and administrators**.
 
-The platform focuses on job discovery, recruitment workflows, profiles, dashboards and management systems.
+The platform focuses on job discovery, recruitment workflows, profiles, applications, dashboards, and administrative management.
+
+### Architecture
+
+```text
+Frontend
+React.js · Next.js
+
+Backend
+Node.js · Express.js
+
+Database
+MySQL
+
+ORM
+Sequelize
+```
+
+### Core Areas
+
+`Authentication` · `Job Management` · `Recruiter Workflows`
+
+`Applications` · `Profiles` · `Dashboards` · `Admin Management`
+
+---
+
+# 💼 Featured Projects
+
+## 01 — AI Interview Pro
+
+### 🤖 AI-Powered Mock Interview Platform
+
+An AI-powered mock interview application designed to generate role-specific interview sessions with real-time voice interaction.
+
+### Features
+
+* AI-powered interview generation
+* Voice-based interview interaction
+* JWT authentication
+* Automated email workflows
+* Responsive interface
+* Production deployment
 
 ### Stack
 
+`Next.js` · `Node.js` · `MongoDB` · `Mongoose`
+
+`Google GenAI` · `Vapi.ai` · `JWT` · `Tailwind CSS` · `Nodemailer`
+
+<p>
+  <a href="https://github.com/utkarsh08122/AI-Interview-Pro">
+    <img
+      src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="AI Interview Pro Repository"
+    />
+  </a>
+</p>
+
+---
+
+## 02 — SnapBook
+
+### 📸 Social Media Web Application
+
+A social media application focused on authentication, media uploads, user interaction, and responsive application design.
+
+### Features
+
+* JWT authentication
+* Secure password handling
+* Media uploads
+* Cloudinary integration
+* Multer file processing
+* Responsive UI
+
+### Stack
+
+`Next.js` · `Node.js` · `MongoDB` · `Mongoose`
+
+`JWT` · `Cloudinary` · `Multer` · `Tailwind CSS`
+
+<p>
+  <a href="https://github.com/utkarsh08122/SnapBook">
+    <img
+      src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="SnapBook Repository"
+    />
+  </a>
+</p>
+
+---
+
+## 03 — Zelvix
+
+### 🛒 Full-Stack E-Commerce Platform
+
+A full-stack e-commerce application focused on product management, business workflows, database operations, payments, and backend integrations.
+
+### Stack
+
+`React.js` · `Node.js` · `MySQL` · `Sequelize` · `REST APIs`
+
+---
+
+## 04 — Ion Monitor
+
+### 📊 Server-Rendered Web Platform
+
+A production web platform focused on monitoring functionality, SEO, responsive interfaces, and structured database operations.
+
+### Stack
+
+`Next.js` · `React` · `MySQL` · `Prisma` · `REST APIs` · `SSR`
+
+---
+
+# 📱 Web → Mobile
+
+I'm currently expanding my development experience from **web applications into mobile applications**.
+
+<p align="center">
+  <img
+    src="./assets/developer.gif"
+    width="400"
+    alt="Mobile development animation"
+  />
+</p>
+
+### Current Focus
+
 ```text
-Frontend      React.js · Next.js
-Backend       Node.js · Express.js
-Database      MySQL
-ORM           Sequelize
+React Native CLI
+        ↓
+Expo
+        ↓
+Navigation
+        ↓
+API Integration
+        ↓
+Reusable Components
+        ↓
+Mobile Architecture
+```
+
+My goal is to build complete products across **Web + Mobile**, backed by the same API and database ecosystem.
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Web Developer
+
+### Infoace Experts Private Limited
+
+Working across frontend, backend, databases, APIs, SEO, integrations, and deployment for production applications.
+
+### Engineering Experience
+
+```text
+React.js
+Next.js
+Node.js
+Express.js
+
+MySQL
+MongoDB
+Sequelize
+Prisma
+Mongoose
+
+REST APIs
+Responsive UI
+SEO
+Deployment
+```
+
+My work involves taking features from the **UI layer through backend services and database operations**, while maintaining responsive interfaces and production workflows.
+
+---
+
+# 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** using LeetCode to improve my problem-solving and interview readiness.
+
+<p align="center">
+  <img
+    src="./assets/coding.gif"
+    width="430"
+    alt="Coding animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/uksingh08?theme=dark"
+    width="500"
+    alt="Utkarsh Singh LeetCode Statistics"
+  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/uksingh08/">
+    <img
+      src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"
+      alt="View LeetCode Profile"
+    />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=utkarsh08122&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=020617&amp;title_color=60A5FA&amp;icon_color=3B82F6&amp;text_color=CBD5E1"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh08122&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=020617&amp;title_color=60A5FA&amp;text_color=CBD5E1"
+ height="180"
+ alt="Top Languages"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=utkarsh08122&amp;theme=tokyonight&amp;hide_border=true&amp;background=020617&amp;ring=2563EB&amp;fire=60A5FA&amp;currStreakLabel=60A5FA"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh08122&amp;bg_color=020617&amp;color=60A5FA&amp;line=2563EB&amp;point=38BDF8&amp;area=true&amp;hide_border=true&amp;custom_title=Utkarsh%20Singh%20-%20GitHub%20Activity"
+    width="100%"
+    alt="Utkarsh Singh GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+
+  <picture>
+
+```
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/utkarsh08122/utkarsh08122/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/utkarsh08122/utkarsh08122/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/utkarsh08122/utkarsh08122/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub Contribution Snake Animation"
+/>
+```
+
+  </picture>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+  <a href="https://github.com/utkarsh08122">
+    <img
+      src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/utkarsh-singh-73a71a220/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://leetcode.com/u/uksingh08/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
+
+  <a href="mailto:utkarshsingh6306339464@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3500&amp;pause=1200&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Build+%E2%80%A2+Ship+%E2%80%A2+Learn;Web+%E2%86%92+Mobile;Always+Building"
+    alt="Footer typing animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:38BDF8,45:2563EB,75:0F172A,100:020617&amp;height=130&amp;section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
